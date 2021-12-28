@@ -7,6 +7,10 @@ public class Main {
         int one = 0, two = 0, result = 0, counter = 0;
         String operation = "";
 
+        System.out.println();
+        System.out.println("Добро пожаловать в программу калькулятор!");
+        System.out.println();
+
         System.out.println("Для начала работы введите первое число и нажмите клавишу 'Enter' " +
                 "затем  операцию (+, -, / или *) и нажмите клавишу 'Enter' " +
                 "в конце введите последнюю цифру и нажмите клавишу 'Enter'.\n" +
